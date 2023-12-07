@@ -4,6 +4,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto Slab", serif;
 }
+
 hr {
   border: 1px solid #f9f8ff;
 }
@@ -20,7 +21,7 @@ h2 {
   justify-content: right;
   top: -180px;
 }
-p {
+main {
   color: #a9a5b3;
 }
 strong {
